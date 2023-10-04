@@ -3,6 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Data Science / Machine Learning / Quantitative Analysis
 -------------------------------------------------------
+Bachelor in Finance, Master in Big Data.
 
 My interest in coding began with an econometrics class during my senior year of Bachelor's degree in Finance. Since then I have been learning about data science and machine learning. I have two years of professional experience as a Business Intelligence Consultant. It equipped me with a strong SQL knowledge and data visualisation tools like Power BI. I am actively trying to find employment in the three aforementioned fields and connect my passion with professional work.
 
