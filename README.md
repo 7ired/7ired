@@ -9,7 +9,7 @@ My interest in coding began with an econometrics class during my senior year of 
 
 *   🌍  I'm based in Switzerland.
 *   ✉️  You can contact me at [erykwitkowski2@gmail.com](mailto:erykwitkowski2@gmail.com)
-*   🧠  I'm learning to become a better coder.
+*   🧠  I'm learning to become a full stack data scientist.
 *   🤝  I'm open to collaborating on interesting projects or kaggle competitions!
 *   ⚡  I love powerlifting and snowboarding
 
