@@ -1,17 +1,10 @@
 Hi! My name is Eryk Witkowski
 ======================================================================================================================================
 
-Data Science / Machine Learning / Quantitative Analysis
--------------------------------------------------------
-Bachelor in Finance, Master in Big Data.
-
-My interest in coding began with an econometrics class during my senior year of Bachelor's degree in Finance. Since then I have been learning about data science and machine learning. I have two years of professional experience as a Business Intelligence Consultant. It equipped me with a strong SQL knowledge and data visualisation tools like Power BI. I am actively trying to find employment in the three aforementioned fields and connect my passion with professional work.
-
-*   🌍  I'm based in Switzerland.
+*   🌍  I'm based in Poland/Switzerland.
 *   ✉️  You can contact me at [erykwitkowski2@gmail.com](mailto:erykwitkowski2@gmail.com)
 *   🧠  I'm learning to become a full stack data scientist.
 *   🤝  I'm open to collaborating on interesting projects or kaggle competitions!
-*   ⚡  I love powerlifting and snowboarding
 
 ### Skills 
 <p align="left">
